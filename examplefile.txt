@@ -1,0 +1,2 @@
+this page is for writting examples in future
+now im using git kraken gui
